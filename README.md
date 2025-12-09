@@ -1,5 +1,7 @@
 <h1>Building a sub 250 gram FPV drone.</h1>
 
+<h2> Click Below for Thought Process on some of buildup</h2>
+
  ### [Building a Drone..](https://www.youtube.com/watch?v=oAT-Ejx24T0)
 
 <h2>Description</h2>
